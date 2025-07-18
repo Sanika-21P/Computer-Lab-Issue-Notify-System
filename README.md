@@ -103,9 +103,9 @@ The **Computer Lab Issue Notify System** is a PHP-MySQL based application design
 - ![Home Page](screenshots/homepage.png)
 - ![Admin Dashboard](screenshots/admin_dashboard.png)
 - ![Add New User](screenshots/add_user.png)
-- ![Faculty Problem Submission](screenshots/faculty_post_issue.png)
-- ![Problem List for Lab Assistant](screenshots/labassistant_problems.png)
-- ![Issue Solution](screenshots/solution_response.png)
-- ![Pending Issues](screenshots/pending_issues.png)
+- ![Faculty Dashboard](screenshots/faculty_dashboard.png)
+- ![Problem posted by faculty](screenshots/Post_problem.png)
+- ![Lab Assistant Dashboard](screenshots/labAssistant_dashboard.png)
+- ![List Of problems](screenshots/View_problem.png)
 
 

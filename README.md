@@ -63,7 +63,7 @@ The **Computer Lab Issue Notify System** is a PHP-MySQL based application design
 4. Create Database:
    - Open phpMyAdmin at: `http://localhost/phpmyadmin`
    - Create a database (e.g., `lab_notify`)
-   - Import the provided SQL file from the project folder
+   - Import the provided SQL file from the project folder(lab.sql)
 
 5. Access the system:
    ```
